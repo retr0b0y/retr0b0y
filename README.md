@@ -14,4 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0b0y&hide=TeX&layout=compact)
 -->
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=retr0b0y.retr0b0y)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=retr0b0y.retr0b0y) -->
+<p align="center" width="100%">
+    <img src="https://komarev.com/ghpvc/?username=retr0b0y&color=blueviolet&style=for-the-badge">
+</p>
