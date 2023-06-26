@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4700&pause=500&vCenter=true&center=true&width=950&height=25&lines=I'm+retr0b0y%2C+nice+to+meet+you!+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4600&pause=500&vCenter=true&center=true&width=950&height=25&lines=I'm+retr0b0y%2C+nice+to+meet+you!+%F0%9F%99%82)](https://git.io/typing-svg)
 ##  <img src="https://media.giphy.com/media/3k0VvmkCI1Mrn0rOm3/giphy.gif" width="35"> Technologies
 - [x] Use in development:
      
